@@ -81,12 +81,3 @@ The DeepSpeed Qwen path includes a compatibility
 adaptation for the original model's Top-4 routed
 experts and shared expert.
 
-## Acknowledgement
-
-This implementation is developed from and extends
-components of HarMoEny:
-
-https://github.com/sacs-epfl/HarMoEny
-
-Third-party copyright and licensing notices must
-be respected before public redistribution.
