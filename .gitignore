@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+conda_env/
+.env
+.env.*
+!.env.example
+
+# Models and datasets
+models/
+model/
+datasets/
+checkpoints/
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.arrow
+
+# Experimental outputs
+outputs/
+test_report_outputs/
+logs/
+results/
+figures/
+traces/
+*.log
+*.csv
+
+# Backups and generated files
+*.bak
+*.bak_*
+*.tar
+*.tar.gz
+*.zip
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
